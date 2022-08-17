@@ -1,0 +1,85 @@
+.Uber {
+    background-color: rgb(0, 0, 0);
+    width: 125px;
+    color: white;
+    height: 42px;
+    border: none;
+    cursor: pointer;
+    margin-bottom: 15px;
+  }
+
+.AtC {
+    background-color: rgb(255, 216, 20);
+    border-radius: 20px;
+    height: 37px;
+    border: none;
+    width: 165px;
+    cursor: pointer;
+    font-weight: bold;
+    margin-bottom: 15px;
+  }
+
+.Github {
+    background-color: rgb(46, 164, 79);
+    border-radius: 7px;
+    height: 43px;
+    width: 94px;
+    border: none;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    margin-bottom: 15px;
+}
+
+.BS {
+    background-color: rgb(121, 82, 179);
+    border-radius: 4px;
+    height: 40px;
+    width: 104px;
+    color: white;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+}
+
+.Dl {
+    background-color: 108, 117, 125;
+    color: gray;
+    border-style: solid;
+    height: 40px;
+    border-width: 1px;
+    font-weight: bold;
+    width: 100px;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-bottom: 15px;
+}
+
+.Li {
+    background-color: rgb(10 ,102 ,194 );
+    color: white;
+    border-radius: 27px;
+    width: 217px;
+    border: none;
+    height: 40px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.Save {
+    background-color: rgb(255, 255, 255 );
+    color: rgb(85, 83, 212);
+    border-color: rgb(85, 83, 212);
+    font-size: 15px;
+    font-weight: bold;
+    height: 40px;
+    width: 67px;
+    border-radius: 27px;
+    border-style: solid;
+    border-width: 1px;
+    cursor: pointer;
+    margin-bottom: 15px;
+}
+
+
+
